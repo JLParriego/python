@@ -1,0 +1,15 @@
+🧪 INSTRUCCIONES PARA INICIAR PROYECTO
+
+1. Cambia el nombre de la carpeta como desees.
+2. Abre la carpeta con VS Code.
+3. Abre Terminal y ejecuta:
+   sh setup.sh
+
+Esto crea el entorno virtual y configura todo.
+
+4. Guarda cualquier archivo `.py` y se autoformatea con `black`.
+5. Puedes usar:
+   - `flake8` para estilo
+   - `mypy` para tipos
+   - `pytest` para tests
+6. Usa los scripts de `src/scripts_utiles` para practicar o automatizar tareas.
