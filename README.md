@@ -67,3 +67,19 @@ Sube esta carpeta como repositorio a GitHub para usarla desde todos tus disposit
 ---
 
 ¡Feliz codificación! ✨
+
+## Comandos Git
+git add .
+git commit -m "Descripción clara de los cambios"
+git push
+
+
+| Comando               | Qué hace                                                   |
+| --------------------- | ---------------------------------------------------------- |
+| `git add .`           | Prepara todos los archivos modificados para subirlos       |
+| `git commit -m "..."` | Guarda un punto en la historia del proyecto con un mensaje |
+| `git push`            | Envía los cambios al repositorio de GitHub                 |
+
+
+git status     # Ver archivos modificados
+git diff       # Ver el contenido exacto de los cambios
